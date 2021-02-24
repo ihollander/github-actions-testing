@@ -20,5 +20,5 @@ jobs:
         ruby-version: 2.6
     - name: Install dependencies
       run: gem install github-to-canvas
-    - name: Run tests
+    - name: testing
       run: echo $CANVAS_API_KEY
