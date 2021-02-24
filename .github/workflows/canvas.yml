@@ -4,6 +4,8 @@ on: push
 
 jobs:
   sync:
+    name: Sync with Canvas
+
     runs-on: ubuntu-latest
 
     steps:
