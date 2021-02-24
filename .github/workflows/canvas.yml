@@ -14,7 +14,7 @@ jobs:
           ruby-version: 2.6
       - name: Install dependencies
         run: gem install github-to-canvas
-      - name: Test push
-        run: echo $CANVAS_API_KEY
+      - name: Sync with canvas
+        run: github-to-canvas --align-from-github https://github.com/learn-co-curriculum/react-hooks-dq-conditional-rendering --course 3264 --id 6593 --type discussion -lr --forkable --contains-html
         env:
           CANVAS_API_KEY: ${{ secrets.CANVAS_API_KEY }}
