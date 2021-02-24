@@ -2,23 +2,22 @@ name: Sync with Canvas
 
 on:
   push:
-    branches: [ $default-branch ]
+    branches: [$default-branch]
 
 jobs:
   sync:
-
     runs-on: ubuntu-latest
 
     env:
       CANVAS_API_KEY: ${{ secrets.CANVAS_API_KEY }}
-      
+
     steps:
-    - uses: actions/checkout@v2
-    - name: Set up Ruby
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 2.6
-    - name: Install dependencies
-      run: gem install github-to-canvas
-    - name: testing
-      run: echo $CANVAS_API_KEY
+      - uses: actions/checkout@v2
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 2.6
+      - name: Install dependencies
+        run: gem install github-to-canvas
+      - name: Test push
+        run: echo $CANVAS_API_KEY
