@@ -23,7 +23,7 @@ jobs:
         run: gem install github-to-canvas
 
       - name: Sync with canvas
-        run: github-to-canvas --align-from-github https://github.com/learn-co-curriculum/react-hooks-jest-testing --course 3264 --id 68021 --type assignment -lr --forkable --contains-html
+        run: github-to-canvas -a -lr --forkable
         env:
           CANVAS_API_KEY: ${{ secrets.CANVAS_API_KEY }}
           CANVAS_API_PATH: ${{ secrets.CANVAS_API_PATH }}

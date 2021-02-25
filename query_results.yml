@@ -1,0 +1,1201 @@
+---
+:name: React with Hooks
+:id: 3264
+:modules:
+- :id: 14086
+  :name: Discussion Questions
+  :lessons:
+  - id: '7051'
+    title: 'Discussion Questions: Components'
+    indent: 1
+    type: Discussion
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/142569
+    url: https://learning.flatironschool.com/api/v1/courses/3264/discussion_topics/7051
+    published: false
+    repository: ''
+  - id: '6589'
+    title: 'Discussion Questions: Declarative Programming and JSX'
+    indent: 1
+    type: Discussion
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132789
+    url: https://learning.flatironschool.com/api/v1/courses/3264/discussion_topics/6589
+    published: false
+    repository: ''
+  - id: '6590'
+    title: 'Discussion Questions: Core React Concepts'
+    indent: 1
+    type: Discussion
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132790
+    url: https://learning.flatironschool.com/api/v1/courses/3264/discussion_topics/6590
+    published: false
+    repository: ''
+  - id: '6591'
+    title: 'Discussion Questions: Props vs. State'
+    indent: 1
+    type: Discussion
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132791
+    url: https://learning.flatironschool.com/api/v1/courses/3264/discussion_topics/6591
+    published: false
+    repository: ''
+  - id: '6592'
+    title: 'Discussion Questions: Props and State Exercise'
+    indent: 1
+    type: Discussion
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132792
+    url: https://learning.flatironschool.com/api/v1/courses/3264/discussion_topics/6592
+    published: false
+    repository: ''
+  - id: '6593'
+    title: 'Discussion Questions: Conditional Rendering'
+    indent: 1
+    type: Discussion
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132793
+    url: https://learning.flatironschool.com/api/v1/courses/3264/discussion_topics/6593
+    published: false
+    repository: ''
+  - id: '6594'
+    title: 'Discussion Questions: Lifting State'
+    indent: 1
+    type: Discussion
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132794
+    url: https://learning.flatironschool.com/api/v1/courses/3264/discussion_topics/6594
+    published: false
+    repository: ''
+  - id: '6595'
+    title: 'Discussion Questions: Props and Component Reusability'
+    indent: 1
+    type: Discussion
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132795
+    url: https://learning.flatironschool.com/api/v1/courses/3264/discussion_topics/6595
+    published: false
+    repository: ''
+- :id: 14087
+  :name: Node Package Manager
+  :lessons:
+  - id: intro-to-npm
+    title: Intro to NPM
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132796
+    page_url: intro-to-npm
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/intro-to-npm
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '68019'
+    title: Node Package Management Code-Along
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132797
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68019
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 14088
+  :name: Introduction to React
+  :lessons:
+  - id: what-is-react
+    title: What is React?
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132798
+    page_url: what-is-react
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/what-is-react
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '68020'
+    title: A React App Example
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132799
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68020
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68021'
+    title: Running Tests in React
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132800
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68021
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 14089
+  :name: Components Props and JSX
+  :lessons:
+  - id: '68022'
+    title: React Components Basics
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132801
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68022
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68023'
+    title: React Components Basics Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132802
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68023
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68024'
+    title: Organizing Code with Import/Export
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132803
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68024
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68025'
+    title: Organizing Code with Import/Export Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132804
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68025
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: writing-jsx
+    title: Writing JSX
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132805
+    page_url: writing-jsx
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/writing-jsx
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '68026'
+    title: JSX Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132806
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68026
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68027'
+    title: Props Basics
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132807
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68027
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68028'
+    title: Props Basics Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132808
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68028
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68029'
+    title: Props Destructuring and Default Values
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132809
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68029
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68030'
+    title: Lists and Keys
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132810
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68030
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68031'
+    title: Lists and Keys Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132811
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68031
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68032'
+    title: Components, Props and JSX Mini Project
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132812
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68032
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: bonus-react-fragments
+    title: 'BONUS: React Fragments'
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/133058
+    page_url: bonus-react-fragments
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/bonus-react-fragments
+    published: true
+    repository: ''
+  - id: '68033'
+    title: 'BONUS: React Children'
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/133057
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68033
+    published: true
+    repository: ''
+- :id: 14091
+  :name: State and Events
+  :lessons:
+  - id: '68034'
+    title: Event Handling in React
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132815
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68034
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68035'
+    title: Event Handling in React Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132816
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68035
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68036'
+    title: React State
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132817
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68036
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68037'
+    title: React State and Events Code-along
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132818
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68037
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '73870'
+    title: React State and Arrays
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/143234
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/73870
+    published: true
+    repository: ''
+  - id: '68038'
+    title: React State Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132819
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68038
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68039'
+    title: React Information Flow
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132820
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68039
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68040'
+    title: React Information Flow Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132821
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68040
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68041'
+    title: React Controlled Inputs
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132822
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68041
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '81785'
+    title: React Forms Submit
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/159898
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/81785
+    published: true
+    repository: ''
+  - id: '81786'
+    title: 'BONUS: React Forms Abstraction'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/159897
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/81786
+    published: true
+    repository: ''
+  - id: '68042'
+    title: React Controlled Components Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132823
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68042
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68043'
+    title: State and Events Mini Project
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132824
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68043
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 14092
+  :name: Week 1 Pairing
+  :lessons:
+  - id: '84876'
+    title: React State and Events Pairing
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/165881
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/84876
+    published: true
+    repository: ''
+  - id: '68044'
+    title: 'Hogwarts: The React app for fans of prize-winning pigs'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132825
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68044
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 14093
+  :name: Side Effects and Data Fetching
+  :lessons:
+  - id: '68045'
+    title: The useEffect Hook
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132826
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68045
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '84970'
+    title: The useEffect Hook - Cleaning Up
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/166206
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/84970
+    published: true
+    repository: ''
+  - id: '68046'
+    title: React useEffect Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132827
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68046
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: data-fetching-in-react
+    title: Data Fetching in React
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132828
+    page_url: data-fetching-in-react
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/data-fetching-in-react
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '68126'
+    title: React Simple Data Fetching Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132954
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68126
+    published: true
+    repository: ''
+  - id: '68047'
+    title: Async Giphy Search Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132829
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68047
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68048'
+    title: React Fetch CRUD Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132830
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68048
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 14094
+  :name: 'React: Under the Hood'
+  :lessons:
+  - id: create-react-app
+    title: Create React App
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132831
+    page_url: create-react-app
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/create-react-app
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: babel-and-react
+    title: Babel and React
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132832
+    page_url: babel-and-react
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/babel-and-react
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: webpack-and-react
+    title: Webpack and React
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132833
+    page_url: webpack-and-react
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/webpack-and-react
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: reconciliation-in-react
+    title: Reconciliation in React
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132834
+    page_url: reconciliation-in-react
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/reconciliation-in-react
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+- :id: 14096
+  :name: Client-Side Routing
+  :lessons:
+  - id: introduction-to-react-router
+    title: Introduction to React Router
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132843
+    page_url: introduction-to-react-router
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/introduction-to-react-router
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '68053'
+    title: React Router Code-along
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132844
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68053
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68054'
+    title: React Components as Routes Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132845
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68054
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68055'
+    title: Dynamic Routes in React Router
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132846
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68055
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68056'
+    title: Programmatic Navigation
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132847
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68056
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 14326
+  :name: Advanced Hooks
+  :lessons:
+  - id: '69020'
+    title: The useRef Hook
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/134424
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/69020
+    published: true
+    repository: ''
+  - id: '69021'
+    title: React Context
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/134426
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/69021
+    published: true
+    repository: ''
+  - id: '69022'
+    title: Custom Hooks
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/134425
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/69022
+    published: true
+    repository: ''
+- :id: 14095
+  :name: Class Components
+  :lessons:
+  - id: class-components-intro
+    title: Class Components Intro
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132835
+    page_url: class-components-intro
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/class-components-intro
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '68049'
+    title: Class Syntax Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132836
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68049
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: class-methods-and-event-handling
+    title: Class Methods and Event Handling
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132837
+    page_url: class-methods-and-event-handling
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/class-methods-and-event-handling
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: using-state-in-class-components
+    title: Using State in Class Components
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132838
+    page_url: using-state-in-class-components
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/using-state-in-class-components
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '68050'
+    title: Class Component State and Events Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132839
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68050
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: react-component-lifecycle
+    title: React Component Lifecycle
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132840
+    page_url: react-component-lifecycle
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/react-component-lifecycle
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '68051'
+    title: 'React: Component Mounting Lab'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132841
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68051
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68052'
+    title: 'React: Component Mounting and Unmounting Lab'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132842
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68052
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 14097
+  :name: Authorization
+  :lessons:
+  - id: api-auth-for-single-page-applications
+    title: API Auth for Single Page Applications
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132848
+    page_url: api-auth-for-single-page-applications
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/api-auth-for-single-page-applications
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '68057'
+    title: Token-Based Auth in React and Rails with JWT
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132849
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68057
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68058'
+    title: Session-based Rails API Auth
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132850
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68058
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 14098
+  :name: React Project Mode
+  :lessons:
+  - id: react-project
+    title: React Project!
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132851
+    page_url: react-project
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/react-project
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '77615'
+    title: React Evernote Guided Project
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/150066
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/77615
+    published: false
+    repository: ''
+- :id: 14099
+  :name: Additional Practice
+  :lessons:
+  - id: '68067'
+    title: 'Practice Challenge: Animal Shelter'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132860
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68067
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '74630'
+    title: 'React Mock Code Challenge: gregslist'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/167761
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/74630
+    published: true
+    repository: ''
+  - id: '74552'
+    title: 'React Mock Code Challenge: Plantsy'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/144751
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/74552
+    published: true
+    repository: ''
+  - id: '68061'
+    title: 'Mod 4 Practice Code Challenge: Sushi Saga'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132854
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68061
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68059'
+    title: Toy Tales
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132852
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68059
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68060'
+    title: React Pokemon Searcher
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132853
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68060
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68062'
+    title: 'Practice Challenge: Flatiron Stock Exchange'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132855
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68062
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68063'
+    title: Flatiron Pizza
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132856
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68063
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68064'
+    title: Westworld Command Center
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132857
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68064
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68065'
+    title: 'Practice Challenge: WOOF WOOF'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132858
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68065
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68066'
+    title: React Debugging Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132859
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68066
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68068'
+    title: Binge-Finder
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132861
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68068
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 14100
+  :name: 'Redux: Building Redux from Scratch'
+  :lessons:
+  - id: why-redux
+    title: Why Redux?
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132862
+    page_url: why-redux
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/why-redux
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: using-pure-functions-to-update-application-state
+    title: Using Pure Functions to Update Application State
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132863
+    page_url: using-pure-functions-to-update-application-state
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/using-pure-functions-to-update-application-state
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '68069'
+    title: Reducers Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132864
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68069
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68070'
+    title: Persisting State and Displaying State
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132865
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68070
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68071'
+    title: Dispatching an Initial Action for Setup
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132866
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68071
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68072'
+    title: Completing our Counter Application
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132867
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68072
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68073'
+    title: Refactoring Our Code Into A Library
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132868
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68073
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68074'
+    title: "(Candy) Store Lab"
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132869
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68074
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 14101
+  :name: 'Redux: Using the Redux Library'
+  :lessons:
+  - id: '68075'
+    title: 'Intro to Redux: Reading Data from State'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132870
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68075
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68076'
+    title: Access State with useSelector
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132871
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68076
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: review-and-dive-into-actions
+    title: Review and Dive into Actions
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132872
+    page_url: review-and-dive-into-actions
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/review-and-dive-into-actions
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '68077'
+    title: Dispatching Actions with useDispatch
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132873
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68077
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68078'
+    title: Using the useDispatch Hook Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132874
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68078
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68079'
+    title: Redux Combine Reducers
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132875
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68079
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68080'
+    title: Redux Put It Together
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132876
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68080
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: react-component-state-vs-redux-store-state
+    title: React Component State vs Redux Store State
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132877
+    page_url: react-component-state-vs-redux-store-state
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/react-component-state-vs-redux-store-state
+    completion_requirement:
+      type: must_view
+    published: true
+    repository: ''
+  - id: '68081'
+    title: Asynchronous Web Requests with Using Thunk and Redux
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132878
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68081
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68082'
+    title: 'Async Redux Lab: Pictures of Cats'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132879
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68082
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68083'
+    title: Redux Toolkit
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132880
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68083
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 14102
+  :name: Redux Continued
+  :lessons:
+  - id: '68084'
+    title: Creating Items with Redux
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132881
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68084
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68085'
+    title: Displaying a List of items with Redux
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132882
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68085
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68086'
+    title: Set List Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132883
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68086
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68087'
+    title: Deleting Items with Redux
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132884
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68087
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68088'
+    title: Set List Lab - Redux Delete
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132885
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68088
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+  - id: '68089'
+    title: Create and Delete Lab
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/132886
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/68089
+    completion_requirement:
+      type: must_submit
+    published: true
+    repository: ''
+- :id: 14103
+  :name: Phase 4 Milestones
+  :lessons:
+  - id: phase-4-code-challenge-instructions
+    title: Phase 4 Code Challenge Instructions
+    indent: 0
+    type: Page
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/144763
+    page_url: phase-4-code-challenge-instructions
+    url: https://learning.flatironschool.com/api/v1/courses/3264/pages/phase-4-code-challenge-instructions
+    published: false
+    repository: ''
+  - id: '74561'
+    title: Phase 4 Rubric
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/144762
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/74561
+    published: false
+    repository: ''
+  - id: '72245'
+    title: 'Phase 4 Code Challenge: Bot Battlr'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/139584
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/72245
+    published: false
+    repository: ''
+  - id: '72246'
+    title: 'Phase 4 Code Challenge: Planeteers'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/139583
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/72246
+    published: false
+    repository: ''
+  - id: '72244'
+    title: 'Phase 4 Code Challenge: Bank of Flatiron'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/139585
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/72244
+    published: false
+    repository: ''
+  - id: '72243'
+    title: 'Phase 4 Code Challenge: Poesy'
+    indent: 1
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/139586
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/72243
+    published: false
+    repository: ''
+  - id: '72247'
+    title: Phase 4 Blog
+    indent: 0
+    type: Assignment
+    html_url: https://learning.flatironschool.com/courses/3264/modules/items/139587
+    url: https://learning.flatironschool.com/api/v1/courses/3264/assignments/72247
+    published: false
+    repository: ''
