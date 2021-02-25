@@ -1,6 +1,8 @@
 name: Sync with Canvas
 
-on: push
+on:
+  push:
+    branches: [$default-branch]
 
 jobs:
   sync:
@@ -16,13 +18,16 @@ jobs:
         with:
           ruby-version: 2.6
 
+      # hidden dep, could remove this step if Gemfile for github-to-canvas is updated
       - name: Install byebug
-        run: gem install byebug # hidden dep, could remove this if source code for github-to-canvas is updated
+        run: gem install byebug
 
       - name: Install github-to-canvas
         run: gem install github-to-canvas
 
-      - name: Sync with canvas
+      # environment variable secrets are currently set at repo level
+      # could be set at org level https://docs.github.com/en/actions/reference/encrypted-secrets#creating-encrypted-secrets-for-an-organization
+      - name: Sync from .canvas file
         run: github-to-canvas -a -lr --forkable
         env:
           CANVAS_API_KEY: ${{ secrets.CANVAS_API_KEY }}
