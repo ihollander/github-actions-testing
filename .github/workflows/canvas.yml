@@ -18,6 +18,9 @@ jobs:
         run: gem install byebug # hidden dep, could remove this if source code for github-to-canvas is updated
       - name: Install github-to-canvas
         run: gem install github-to-canvas -v 0.1.5
+      - uses: actions/checkout@v2
+      - name: Setup tmate session
+        uses: mxschmitt/action-tmate@v3
       - name: Sync with canvas
         run: github-to-canvas --align-from-github https://github.com/learn-co-curriculum/react-hooks-dq-conditional-rendering --course 3264 --id 6593 --type discussion -lr --forkable --contains-html
         env:
